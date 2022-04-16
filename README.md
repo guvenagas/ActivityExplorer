@@ -1,1 +1,1 @@
-# ActivityExplorers
+# ActivityExplorer
